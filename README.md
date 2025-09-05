@@ -1,3 +1,3 @@
 # My Unity Game
 
-This is my Unity project. It contains the Assets and ProjectSettings needed to run the game.
+To build: Extract the rar file and add it to unity project.
